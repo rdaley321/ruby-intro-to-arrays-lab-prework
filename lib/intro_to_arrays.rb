@@ -1,1 +1,3 @@
-instantiate_new_a
+def instantiate_new_array
+  []
+end
